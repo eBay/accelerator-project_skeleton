@@ -1,0 +1,8 @@
+/venv/py2/
+/venv/py3/
+__pycache__/
+*.pyc
+
+# The config is ignored because init.py generates it.
+# In your real project you may well want to commit it though.
+/conf/framework.conf
