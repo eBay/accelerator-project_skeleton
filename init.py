@@ -50,7 +50,7 @@ target_workdir=TEST
 source_workdirs=TEST
 
 # Methods are imported from these directories (comma separated)
-method_directories=dev,standard_methods,example1
+method_directories=dev,standard_methods,example1,example_perf
 
 # automata scripts save things here
 result_directory=${HOME}/accelerator/results
